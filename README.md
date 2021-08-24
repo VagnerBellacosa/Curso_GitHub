@@ -1,3 +1,17 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+![Bootcamps na Digital Innovation One](BootCamps/Images/capa.png "Bootcamps")
+
+
+
 # Git
 ---
 
@@ -318,3 +332,28 @@ Para realizar o merge, é necessário estar no branch que deverá receber as alt
  - https://rogerdudler.github.io/git-guide/index.pt_BR.html
  - https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
 
+
+
+
+---
+
+#### * DIO - Digital Inovation One *
+######  [Inscreva-se na Dio](https://web.dio.me/sign-up?ref=R5J3ZLTIFS)  
+
+######  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/Curso_GitHub.svg?style=for-the-badge
+[contributors-url]: https://github.com/VagnerBellacosa/Curso_GitHub/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/Curso_GitHub.svg?style=for-the-badge
+[forks-url]: https://github.com/VagnerBellacosa/Curso_GitHub/network/members
+[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/Curso_GitHub.svg?style=for-the-badge
+[stars-url]: https://github.com/VagnerBellacosa/Curso_GitHub/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/Curso_GitHub.svg?style=for-the-badge
+[issues-url]: https://github.com/VagnerBellacosa/Curso_GitHub/issues
+[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/Curso_GitHub.svg?style=for-the-badge
+[license-url]: https://github.com/VagnerBellacosa/Curso_GitHub/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
+[product-screenshot]: BootCamps/images/capa.png
